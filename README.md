@@ -1,1 +1,1 @@
-Check out my medium post [post](https://alihadiozturk.medium.com/react-native-%C3%BCzerinde-amazon-cognito-veya-google-kullanarak-kullan%C4%B1c%C4%B1-kayd%C4%B1-ve-giri%C5%9Fi-1c460f653e9d) to see how it's implemented.
+Check out my medium [post](https://alihadiozturk.medium.com/react-native-%C3%BCzerinde-amazon-cognito-veya-google-kullanarak-kullan%C4%B1c%C4%B1-kayd%C4%B1-ve-giri%C5%9Fi-1c460f653e9d) to see how it's implemented.
